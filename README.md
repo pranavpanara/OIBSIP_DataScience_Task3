@@ -59,8 +59,8 @@ The dataset contains information related to:
 The project analyzes car market data and predicts car selling prices using machine learning techniques.
 
 ---
+## output Screenshot
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+![Screenshot](ScreenShot1_Task3.png)
 
 ---
